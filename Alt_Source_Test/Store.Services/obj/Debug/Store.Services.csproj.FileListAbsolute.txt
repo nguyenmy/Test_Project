@@ -1,0 +1,11 @@
+E:\Projects\Alt_Source_Test\Store.Services\bin\Debug\Store.Services.dll
+E:\Projects\Alt_Source_Test\Store.Services\bin\Debug\Store.Services.pdb
+E:\Projects\Alt_Source_Test\Store.Services\bin\Debug\DAL.dll
+E:\Projects\Alt_Source_Test\Store.Services\bin\Debug\Store.Common.dll
+E:\Projects\Alt_Source_Test\Store.Services\bin\Debug\DAL.pdb
+E:\Projects\Alt_Source_Test\Store.Services\bin\Debug\Store.Common.pdb
+E:\Projects\Alt_Source_Test\Store.Services\obj\Debug\Store.Services.csprojAssemblyReference.cache
+E:\Projects\Alt_Source_Test\Store.Services\obj\Debug\Store.Services.csproj.CoreCompileInputs.cache
+E:\Projects\Alt_Source_Test\Store.Services\obj\Debug\Store.Services.csproj.CopyComplete
+E:\Projects\Alt_Source_Test\Store.Services\obj\Debug\Store.Services.dll
+E:\Projects\Alt_Source_Test\Store.Services\obj\Debug\Store.Services.pdb

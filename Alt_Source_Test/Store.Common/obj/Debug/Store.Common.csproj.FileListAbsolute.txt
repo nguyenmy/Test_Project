@@ -1,0 +1,6 @@
+E:\Projects\Alt_Source_Test\Store.Common\bin\Debug\Store.Common.dll
+E:\Projects\Alt_Source_Test\Store.Common\bin\Debug\Store.Common.pdb
+E:\Projects\Alt_Source_Test\Store.Common\obj\Debug\Store.Common.csprojAssemblyReference.cache
+E:\Projects\Alt_Source_Test\Store.Common\obj\Debug\Store.Common.csproj.CoreCompileInputs.cache
+E:\Projects\Alt_Source_Test\Store.Common\obj\Debug\Store.Common.dll
+E:\Projects\Alt_Source_Test\Store.Common\obj\Debug\Store.Common.pdb

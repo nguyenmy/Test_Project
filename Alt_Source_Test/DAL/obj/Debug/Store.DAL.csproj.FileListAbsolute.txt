@@ -1,0 +1,9 @@
+E:\Projects\Alt_Source_Test\DAL\bin\Debug\DAL.dll
+E:\Projects\Alt_Source_Test\DAL\bin\Debug\DAL.pdb
+E:\Projects\Alt_Source_Test\DAL\bin\Debug\Store.Common.dll
+E:\Projects\Alt_Source_Test\DAL\bin\Debug\Store.Common.pdb
+E:\Projects\Alt_Source_Test\DAL\obj\Debug\Store.DAL.csprojAssemblyReference.cache
+E:\Projects\Alt_Source_Test\DAL\obj\Debug\Store.DAL.csproj.CoreCompileInputs.cache
+E:\Projects\Alt_Source_Test\DAL\obj\Debug\Store.DAL.csproj.CopyComplete
+E:\Projects\Alt_Source_Test\DAL\obj\Debug\DAL.dll
+E:\Projects\Alt_Source_Test\DAL\obj\Debug\DAL.pdb
